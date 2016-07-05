@@ -1,0 +1,19 @@
+            .wiki-card-demo.mdl-card {
+                
+                height: 320px;
+            }
+            .movie-card-demo > .mdl-card__title {
+                color: #fff;
+                background: url('../img/background5.jpg');
+                background-size: 320px;
+            }           
+            .mdl-card__menu {
+                color: #fff;
+            }
+            .mdl-textfield{
+                width: 50%;
+                margin-left: 25%;
+            }
+           
+            
+            
